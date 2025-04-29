@@ -1,5 +1,5 @@
-# cuda-programming
-> cuda-programming, to be focused on CUDA programming, which is commonly used for parallel computing on NVIDIA GPUs. Based on the repository's name, the primary goal could be to provide resources, examples, or tools for learning and experimenting with CUDA.
+# cuda-learning
+> cuda-learning, to be focused on CUDA programming, which is commonly used for parallel computing on NVIDIA GPUs. Based on the repository's name, the primary goal could be to provide resources, examples, or tools for learning and experimenting with CUDA.
 ---
 Suggested Overview for My Project:
 
